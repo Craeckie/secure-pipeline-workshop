@@ -15,7 +15,7 @@ jobs:
     name: "🚧 Pipeline Scan - Workshop Placeholder"
     runs-on: ubuntu-latest
     outputs:
-      result: ''
+      result: ;;
     steps:
       - name: Workshop Placeholder
         id: placeholder
